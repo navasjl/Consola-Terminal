@@ -1,2 +1,2 @@
-# Java-Intermedio-Retos
+# Java Intermedio-Retos
 Ejercicios de Java, nivel Intermedio
